@@ -10,8 +10,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "ciroue/support": "dev-master",
-        "vlucas/phpdotenv": "^4.1.0"
-    }
+    "require": {}
 }

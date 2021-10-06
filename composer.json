@@ -10,5 +10,14 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/phpsandbox/repl"
+        }
+    ],
+    "require": {
+        "phpsandbox/repl": "dev-master"
+    }
 }

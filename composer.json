@@ -5,5 +5,8 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "require": {}
+    "require": {},
+    "config": {
+        "discard-changes": true
+    }
 }
